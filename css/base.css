@@ -213,3 +213,7 @@ h6 { font-size: 16px; line-height: 22px;letter-spacing:2px;font-weight:700;}
 ::-moz-selection {
 	background: rgba(100,100,100,.2); /* Firefox */
 }
+
+.fluid-width-video-wrapper {
+	padding-top: 58.125% !important;
+}
