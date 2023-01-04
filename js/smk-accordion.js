@@ -2,7 +2,7 @@
  * SMK Accordion jQuery Plugin v1.3
  * ----------------------------------------------------
  * Author: Smartik
- * Author URL: http://smartik.ws/
+ * Author URL: https://smartik.ws/
  * License: MIT
  */
 ;(function ( $ ) {
