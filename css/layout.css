@@ -778,7 +778,7 @@ main {
 
 .padding-top-bottom {
 	padding-top:120px;
-	padding-bottom:120px;
+	padding-bottom:30px;
 }
 .padding-top {
 	padding-top:120px;
@@ -4612,9 +4612,9 @@ ul.countdown li p {
 ================================================== */
 
 @media only screen and (max-width: 1400px) {
-.big-hero-slider {
-	min-height:500px;
-}
+	.big-hero-slider {
+		min-height:500px;
+	}
 }
 @media only screen and (max-width: 1200px) {
 ul.countdown li span {
